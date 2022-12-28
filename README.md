@@ -22,4 +22,4 @@ pip install -r requirements.txt (will be added)
 ## Run
 1. Attach the Shimmer3 to your left hand and connect it to your PC via Bluetooth.
 2. Go to `/shimmer_data` and execute 'ShimmerMonitor.exe'
-3. After connecting Shimmer3 and framework, execute 'main.py'
+3. After connecting Shimmer3 and framework, execute `main.py`
