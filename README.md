@@ -1,6 +1,6 @@
-# MAER-Modality-Adaptive-Emotion-Recognition-system
+# MAER: Modality Adaptive Emotion Recognition system
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/39416550/227125521-89933365-0255-432e-9803-137db362a2a0.gif">
+  <img src="https://user-images.githubusercontent.com/39416550/227125521-89933365-0255-432e-9803-137db362a2a0.gif" width="800"/>
 </p>
 
 - Inner emotion recognition framework through real-time fusion of voice, video, and bio-signal
