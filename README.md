@@ -10,6 +10,7 @@
 * Software
   - Window OS
   - Python(>=3.8)
+  - tensorflow(>=2.3)
 * Hardware
   - webcam
   - Shimmer3
