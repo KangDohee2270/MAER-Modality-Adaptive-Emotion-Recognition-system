@@ -29,4 +29,4 @@ pip install -r requirements.txt
 3. After connecting Shimmer3 and framework, execute `main.py`
 
 ## Contact
-(ongoing)
+(ongoing...)
