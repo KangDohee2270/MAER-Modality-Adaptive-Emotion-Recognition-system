@@ -3,21 +3,20 @@
   <img src="https://user-images.githubusercontent.com/39416550/227125521-89933365-0255-432e-9803-137db362a2a0.gif" width="800"/>
 </p>
 
-- Inner emotion recognition framework through real-time fusion of voice, video, and bio-signal
-- A real-time gaze estimation algorithm and a hand motion recognition algorithm are also included.
+- Inner emotion recognition framework through real-time fusion of audio, video, and biological signal
 
 ## Requirement
 * Software
   - Window OS
   - Python(>=3.8)
-  - tensorflow(>=2.2)
+  - tensorflow(>=2.3)
 * Hardware
   - webcam
   - Shimmer3
 
 To install all dependencies, do this.
 ```
-pip install -r requirements.txt (will be added)
+pip install -r requirements.txt
 ```
 
 ## Pretrained weights
