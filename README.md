@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Pretrained weights
 - Pretrained weights for each modality can get from [here](https://drive.google.com/drive/u/0/folders/1mz9mqqq8DkHD-4z6dDit20mGg_nmAXYy)
-- Details will be updated
+- Create a "models" subfolder in each signal (i.e. audio, video and bio-signal) folder and save the downloaded model weights.
 
 ## Run
 1. Attach the Shimmer3 to your left hand and connect it to your PC via Bluetooth.
