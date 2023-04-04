@@ -34,4 +34,4 @@ pip install -r requirements.txt
 - [x] Initial update
 
 ## Contact
-(ongoing)
+(ongoing...)
