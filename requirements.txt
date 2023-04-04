@@ -1,0 +1,14 @@
+tensorflow>=2.3.0
+numpy
+six
+torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+matplotlib
+pyaudio
+speechpy
+webrtcvad
+screeninfo
+opencv-python
+hdf5storage
+pytz
+pretrainedmodels
+yacs
