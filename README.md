@@ -28,5 +28,10 @@ pip install -r requirements.txt
 2. Go to `/shimmer_data` and execute 'ShimmerMonitor.exe'
 3. After connecting Shimmer3 and framework, execute `main.py`
 
+## Milestone
+- [ ] Code refactoring
+- [x] Upload pre-trained weights
+- [x] Initial update
+
 ## Contact
 (ongoing)
