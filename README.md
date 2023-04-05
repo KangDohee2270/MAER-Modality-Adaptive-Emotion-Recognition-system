@@ -22,7 +22,26 @@ pip install -r requirements.txt
 ## Pretrained weights
 - Pretrained weights for each modality can get from [here](https://drive.google.com/drive/u/0/folders/1mz9mqqq8DkHD-4z6dDit20mGg_nmAXYy)
 - Create a "models" subfolder in each signal (i.e. audio, video and bio-signal) folder and save the downloaded model weights.
-
+```bash
+# Save pretrained weights
+./
+├── audio
+│   ├── models
+│   │   ├── arousal
+│   │   |   ├──  [...]
+│   │   ├── valence
+│   │   |   ├──  [...]
+├── video
+│   ├── models
+│   │   ├──  [...]
+│   │   ├──  [...]
+├── bio-signal
+│   ├── models
+│   │   ├── arousal
+│   │   |   ├──  [...]
+│   │   ├── valence
+│   │   |   ├──  [...]
+```
 ## Run
 1. Attach the Shimmer3 to your left hand and connect it to your PC via Bluetooth.
 2. Go to `/shimmer_data` and execute 'ShimmerMonitor.exe'
