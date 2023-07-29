@@ -4,15 +4,15 @@
 </p>
 
 - Inner emotion recognition framework through real-time fusion of audio, video, and biological signal
-
 ## Requirement
 * Software
   - Window OS
   - Python(>=3.8)
-  - tensorflow(>=2.3)
+  - tensorflow(>=2.8.0)
 * Hardware
   - webcam
   - Shimmer3
+  - mic
 
 To install all dependencies, do this.
 ```
@@ -43,14 +43,31 @@ pip install -r requirements.txt
 │   │   |   ├──  [...]
 ```
 ## Run
-1. Attach the Shimmer3 to your left hand and connect it to your PC via Bluetooth.
-2. Go to `/shimmer_data` and execute 'ShimmerMonitor.exe'
-3. After connecting Shimmer3 and framework, execute `main.py`
+1. Run toy example.
+
+  - Note that video, audio and bio sianals are already prepared in `example_record` folder.
+
+  - The purpose of executing this toy example is two folds: 1) Verify each modality encoder's performance, and 2) Check the effectiveness of adaptive fusion (AF). 
+
+    ```bash
+    python example.py
+    ```
+
+2. Run real-time demo.
+
+  - Details are as follows:
+
+    (1) Attach the __Shimmer3__ to your left hand and connect it to your PC via Bluetooth.
+
+    (2) Go to `/shimmer_data` and execute 'ShimmerMonitor.exe'
+
+    (3) After connecting Shimmer3 and framework, run this code.
+
+    ```bash
+    python main.py
+    ```
 
 ## Milestone
-- [ ] Code refactoring
+- [x] Code refactoring
 - [x] Upload pre-trained weights
 - [x] Initial update
-
-## Contact
-(ongoing...)
