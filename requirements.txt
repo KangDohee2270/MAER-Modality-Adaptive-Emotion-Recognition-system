@@ -12,3 +12,5 @@ hdf5storage
 pytz
 pretrainedmodels
 yacs
+protobuf==3.19.0
+pandas
