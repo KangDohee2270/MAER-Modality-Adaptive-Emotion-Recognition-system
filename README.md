@@ -1,4 +1,8 @@
 # MAER: Modality Adaptive Emotion Recognition system
+> **Beyond superficial emotion recognition: Modality-adaptive emotion recognition system, Expert Systems With Applications(ESWA)**<br>
+
+> [PAPER](https://www.sciencedirect.com/science/article/abs/pii/S0957417423015993)
+
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/39416550/227125521-89933365-0255-432e-9803-137db362a2a0.gif" width="800"/>
 </p>
